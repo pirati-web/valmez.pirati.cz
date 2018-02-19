@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Pirátská strana | UH
+title: Pirátská strana | ValMez
 email: to@pirati.cz
 description: > # this means to ignore newlines until "baseurl:"
-  Web místního sdružení České pirátské strany v Uherském Hradišti.
+  Web místního sdružení České pirátské strany ve Valašském Meziříčí.
 url: "https://www.pirati.cz" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
