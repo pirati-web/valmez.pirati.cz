@@ -16,6 +16,7 @@ Pro běžného občana výjimky neexistují, ale jakmile jde o velký průmysl, 
 ![Mapa znečištění 08.02.2018](https://valmez.pirati.cz/assets/img/posts/mapavzduch2.png)
 
 Podle nejnovějších dat je stav ovzduší v České republice velmi špatný. Tři z pěti lidí žijí v oblastech, kde jsou překračovány hygienické limity znečištění ovzduší. S příchodem zimy navíc tradičně nastávají smogové situace, které vše ještě zhorší. Ministerstvo životního prostředí situaci dlouhodobě podceňuje a v důsledku jeho liknavosti dýcháme špatný vzduch,“ uvádí Dana Balcarová, která přišla s pozměňovacím návrhem zamezujícím udělování výjimek z limitů pro znečištění ovzduší velkým uhelným elektrárnám. Druhý pozměňovací návrh dává obcím pravomoc zakázat spalování nekvalitního hnědého uhlí v malých kotlích.
+
 Ukončení výjimek pro limity znečištění by dopadlo na 11 největších uhelných elektráren. Ty by se musely modernizovat a snížit znečištění. Anebo svůj provoz po roce 2021 omezit či úplně ukončit. To je v souladu s platnou státní energetickou koncepcí, která plánuje snižování výroby elektřiny z uhlí. Podle statistik je zmíněných 11 zdrojů znečištění zodpovědných za 12 293 ztracených let života ročně. Zákaz výjimek by přitom neměl vliv na cenu tepla ani elektřiny, protože se nedotkne tepláren.
 Návrhy našly podporu mezi starosty malých obcí, obyvateli dotčených regionů a nakonec i mezi dalšími členy Výboru pro životní prostředí. 
 
