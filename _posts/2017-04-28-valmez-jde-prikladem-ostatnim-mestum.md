@@ -11,7 +11,7 @@ Zavedení bezplatné městské dopravy ve Valašském Meziříčí, na které m�
 
 „Podporujeme návrhy na komunální úrovni, aby byla MHD plně financována z veřejného rozpočtu,“ čteme v programu Pirátů. A hle, rada dalšího města po určitém váhání usoudila, že se to nakonec vyplatí. Jedná se o Valašské Meziříčí ve Zlínském kraji.
 
-Ještě nedávno to vypadalo jako utopie, a mnozí politici měli strach, že se finance nenajdou. Město je ale našlo ve fondu, kde se shromáždily pokuty řidičů aut. Našel se tím ten bod rovnováhy, který může garantovat daleko lepší ovzduší ve "Valmezu" bez velké zátěže pro městskou kasu. A tak, [usnesení č.65/24](http://www.valasskemezirici.cz/65-radna-schuze-rady-mesta-ze-dne-04-04-2017/d-30866){:target="_blank"} je doprava od letošního září zdarma.
+Ještě nedávno to vypadalo jako utopie, a mnozí politici měli strach, že se finance nenajdou. Město je ale našlo ve fondu, kde se shromáždily pokuty řidičů aut. Našel se tím ten bod rovnováhy, který může garantovat daleko lepší ovzduší ve "Valmezu" bez velké zátěže pro městskou kasu. A tak, díky [usnesení č.65/24](http://www.valasskemezirici.cz/65-radna-schuze-rady-mesta-ze-dne-04-04-2017/d-30866){:target="_blank"} je doprava od letošního září zdarma.
 
 „Jsme absolutně nadšení“, deklaroval Denis Rychtar, představitel pirátů ve Valašském Meziříčí. Už se těší na lepší ovzduší v městě a věří, že toto opatření přiláká do autobusů více spoluobčanů.
 
