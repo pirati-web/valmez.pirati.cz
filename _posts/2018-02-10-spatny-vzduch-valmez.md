@@ -34,7 +34,7 @@ Za větší pravomoci starostů se postavil i poslanec KDU-ČSL Jan Čižinský:
 Návrh se bude projednávat v březnu a doufáme v plnou podporu sněmovny. Tento zákon bude dalším krůčkem k zlepšení ovzduší a mírné snížení nekolika násobně překročených emisních limitů.
 Piráti budou pracovat nadále na problematice eklogie a životního prostředí, protože je na čem urgentně zapracovat!
 
-###Vyjádření Pirátů ve ValMezu:
+### Vyjádření Pirátů ve ValMezu:
 
 U nás ve Zlínském kraji je to prý v pořádku což si nemyslíme!
 
