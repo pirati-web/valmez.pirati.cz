@@ -6,8 +6,7 @@ date: 2018-02-10T12:06:00.032Z
 author: Denis Rychtár
 authorId: denis.rychtar
 image: /assets/img/posts/mapavzduch.png
-description: >
-  Všichni dobře víme, že tento problém se týká i Valašského Meziříčí, kde smogové situace překračují limity několikanásobně...   
+ 
 tags: 'čistota-vzduchu životní-prostředí '
 ---
 Všichni dobře víme, že tento problém se týká i Valašského Meziříčí, kde smogové situace překračují limity několikanásobně. Poslední dobou se situace mírně zlešuje, ale pořád není vůči kritickým hodnotám žádné opatření!
