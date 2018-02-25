@@ -5,7 +5,7 @@ fullname: Petr Hejný  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
 
-img: people/ppp.jpg   # 165 x 220
+img: people/petr-hejny.jpg   # 165 x 220
 description: plánovač výroby # kratký popis, max 160 znaků
 mail:
 - petr.hejny@pirati.cz
