@@ -5,7 +5,7 @@ fullname: Zdeněk Třos  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
 
-img: people/ppp.jpg   # 165 x 220
+img: people/zdenek-tros.jpg   # 165 x 220
 description: OSVČ, jednatel # kratký popis, max 160 znaků
 mail:
 - zdenek.tros@pirati.cz
