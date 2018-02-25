@@ -5,7 +5,7 @@ fullname: Libor Adámek  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
 
-img: people/ppp.jpg   # 165 x 220
+img: people/libor-adamek.jpg   # 165 x 220
 description: prodejce kancelářské techniky # kratký popis, max 160 znaků
 mail:
 - libor.adamek@pirati.cz
