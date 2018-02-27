@@ -3,7 +3,7 @@ layout: blog
 category: CLANKY
 title: 'Valmez jde příkladem ostatním městům'
 date: 2017-04-28T12:06:00.032Z
-author: Denis Rychtár
+author: Denis Rychtar
 authorId: denis.rychtar
 image: /assets/img/posts/1859.jpg
 ---
