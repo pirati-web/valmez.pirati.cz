@@ -3,7 +3,7 @@ layout: blog
 category: CLANKY
 title: 'Tři z pěti lidí dýchají špatný vzduch. Místní Piráti mají několik návrhů na jejich řešení.'
 date: 2018-02-10T12:06:00.032Z
-author: Denis Rychtár
+author: Denis Rychtar
 authorId: denis.rychtar
 image: /assets/img/posts/mapavzduch.png
  
