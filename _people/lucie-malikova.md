@@ -6,7 +6,7 @@ category:                   # kategorie: clenove
 - clenove
 - pms
 
-img: people/ppp.jpg   # 165 x 220
+img: people/lucie-malikova.jpg   # 165 x 220
 description: předsedkyně MS ValMez, na mateřské dovolené # kratký popis, max 160 znaků
 mail:
 - lucie.malikova@pirati.cz
