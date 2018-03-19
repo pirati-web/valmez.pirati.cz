@@ -6,7 +6,7 @@ category:                   # kategorie: clenove
 - pms
 - clenove
 
-img: people/ppp.jpg   # 165 x 220
+img: people/denis-rychtar.jpg   # 165 x 220
 description: 1. místopředseda MS ValMez, chemik-velinář # kratký popis, max 160 znaků
 mail:
 - denis.rychtar@pirati.cz

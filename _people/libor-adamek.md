@@ -4,13 +4,15 @@ name:     Libor Adámek  	# běžně používáné jméno
 fullname: Libor Adámek  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
+- pms
 
 img: people/libor-adamek.jpg   # 165 x 220
-description: prodejce kancelářské techniky # kratký popis, max 160 znaků
+description: 2. místopředseda MS ValMez, prodejce kancelářské techniky # kratký popis, max 160 znaků
 mail:
 - libor.adamek@pirati.cz
 profiles:
   facebook: https://www.facebook.com/adamek.libor
+ordpms: 3  
 ---
 
 Libor Adámek (*26. září 1972, Valašské Meziříčí) je rodilý valach a trvalý občan města Rožnov pod Radhoštěm.
