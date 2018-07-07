@@ -13,7 +13,7 @@ Zdravíme Vás, připravili jsme pro místní občany dotazník, jak jsou spokoj
 
 Pro nás je důležitý Váš názor, protože Vy jste Val.Mez. 
 
-Občané Valašského Meziříčí si volí 5. - 6. října své zástupce do Zastupitelstva města a my chceme být naprosto otevření a místní problémy a projekty řešit právě s vámi.
+Občané Valašského Meziříčí si volí 5. - 6. října své zástupce do Zastupitelstva města a my chceme být naprosto otevření a místní problémy a projekty řešit právě s Vámi.
 
 - - -
 
