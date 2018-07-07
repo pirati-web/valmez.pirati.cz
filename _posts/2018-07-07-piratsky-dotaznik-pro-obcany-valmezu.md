@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 'Pirátský dotazník pro obyvatele Valašského Meziříčí'
-date: 2018-05-18T14:00:00.032Z
+date: 2018-07-07T14:00:00.032Z
 author: Denis Rychtar
 authorId: denis.rychtar
 image: /assets/img/posts/dotaznik.jpg
