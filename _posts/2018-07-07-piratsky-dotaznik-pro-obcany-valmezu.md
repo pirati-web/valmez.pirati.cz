@@ -9,7 +9,7 @@ image: /assets/img/posts/dotaznik.jpg
 tags: 'Valašské-Meziříčí Pirátský-dotazník Názory-občanů'
 ---
 
-Zdravíme Vás, připravili jsme pro místní občany dotazník, jak jsou spokojení s přístupem radnice a života v našem městě.
+Zdravíme Vás, připravili jsme pro místní občany dotazník, jak jsou spokojení s přístupem radnice a životem v našem městě.
 
 Pro nás je důležitý Váš názor, protože Vy jste Val.Mez. 
 
