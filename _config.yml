@@ -10,7 +10,7 @@ title: Pirátská strana | ValMez
 email: to@pirati.cz
 description: > # this means to ignore newlines until "baseurl:"
   Web místního sdružení České pirátské strany ve Valašském Meziříčí.
-url: "https://www.pirati.cz" # the base hostname & protocol for your site
+url: "https://valmez.pirati.cz" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
