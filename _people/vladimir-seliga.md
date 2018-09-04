@@ -1,0 +1,24 @@
+---
+uid: vladimir.seliga
+name:     Mgr. Vladimír Šeliga  	# běžně používáné jméno
+fullname: Mgr. Vladimír Šeliga  	# jméno s tituly etc.
+category:                   # kategorie: clenove
+- pms
+- clenove
+- kandidat
+
+img: people/vladimir-seliga.jpg   # 165 x 220
+description: 47 let<br />chemik<br />nezávislý kandidát # kratký popis, max 160 znaků
+mail:
+
+profiles:
+  facebook: https://www.facebook.com/profile.php?id=100013430379037
+
+ordkandidat: 2
+---
+
+Narozen 28.7.1971 ve Valašském Meziříčí. Celoživotní zájem o sport a zdravý životní styl spolu s více než desetiletými zkušenostmi ve sportovních organizacích zůročuji při trénování mládeže a dospělých. Udržuji si stále vysokou míru motivace rozvíjet se a posunovat vpřed, ve všech oblastech života. Po absolvování Střední průmyslové školy strojnické Vsetín jsem vystudoval obor management volného času a rekreace, následně management životního stylu a učitelskou způsobilost na Fakultě tělesné kultury Univerzity Palackého v Olomouci.
+
+Nadšeně využívám moderní technologie, aktivně denně sportuji, rád odpočívám, cestuji, vzdělávám se a miluji dobrou kuchyni. Jsem instructor šermu (německá škola), instructor fitness, instructor pro závěsné systémy a funkční tréning, instructor UFIT - Universal Fitness Innovation and Transformation, člen a rozhodčí NABBA a WFF česká republika, člen Střeleckého klubu Lešná.
+
+Spolupracuji při organizaci a realizaci sportovních a kulturních akcí. Dobrou životní přípravou pro mne bylo více než desetileté aktivní účinkování v několika skupinách historického a scénického šermu. Pracuji v přední světové společnosti se specializací na chemické výrobky, jejich výrobu a obchodování.
