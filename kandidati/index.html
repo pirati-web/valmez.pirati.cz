@@ -13,16 +13,21 @@ rbar: ""
               <div class="jmk-candidates">
                <div class="row">
                   {% assign team = site.people | where_exp:"item","item.categories contains 'kandidat'" | sort:"ordkandidat"  %}
-                  {% for item in team limit:21 %}
+                  {% for item in team limit:8 %}
                     {% include people/kandidat.html param=item order='ordkandidat' %}
                   {% endfor %}
 
-                  {% for item in team offset:21 limit:8 %}
+                  {% for item in team offset:9 limit:15 %}
                     {% include people/kandidat-small.html param=item order='ordkandidat' %}
                   {% endfor %}
 
-                  <!--{% include people/kandidat-mini.html order='8' name='jmeno' job='zamestnani' %}
-                  {% include people/kandidat-mini.html order='9' name='jmeno' job='zamestnani' %}-->
+                  
+                 <!--{% include people/kandidat-mini.html order='12' name='jm' job=' <br /> <br />nezávislý kandidát' %}
+                 {% include people/kandidat-mini.html order='13' name='jm' job=' <br /> <br />nezávislý kandidát' %}
+                 {% include people/kandidat-mini.html order='14' name='jm' job=' <br /> <br />nezávislý kandidát' %}
+                 {% include people/kandidat-mini.html order='15' name='jm' job=' <br /> <br />nezávislý kandidát' %}
+                 {% include people/kandidat-mini.html order='16' name='jm' job=' <br /> <br />nezávislý kandidát' %}
+                 {% include people/kandidat-mini.html order='17' name='jm' job=' <br /> <br />nezávislý kandidát' %}-->
 
 
 

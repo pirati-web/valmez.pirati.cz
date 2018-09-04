@@ -1,7 +1,7 @@
 ---
 uid: renata.gehringer
 name:     Mgr. Bc. Renata Gehringer  	# běžně používáné jméno
-fullname: Mgr. Bc. renata Gehringer 	# jméno s tituly etc.
+fullname: Mgr. Bc. Renata Gehringer 	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - kandidat
 
@@ -14,8 +14,6 @@ profiles:
 
 ordkandidat: 3
 ---
-
-
 
 Mgr. et Bc. Renata Gehringer (*27. března 1970, Vsetín)
 
