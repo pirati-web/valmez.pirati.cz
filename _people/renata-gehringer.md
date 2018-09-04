@@ -5,7 +5,7 @@ fullname: Mgr. Bc. renata Gehringer Šeliga  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - kandidat
 
-img: people/vladimir-seliga.jpg   # 165 x 220
+img: people/renata-gehringer.jpg   # 165 x 220
 description: 48 let<br />učitelka na SŠ<br />nezávislý kandidát # kratký popis, max 160 znaků
 mail:
 
