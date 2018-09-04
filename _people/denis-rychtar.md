@@ -6,6 +6,7 @@ category:                   # kategorie: clenove
 - pms
 - clenove
 - kandidat
+- kontakt
 
 img: people/denis-rychtar.jpg   # 165 x 220
 description: 28 let<br />1. místopředseda MS ValMez<br />chemik-velinář # kratký popis, max 160 znaků
@@ -15,6 +16,7 @@ profiles:
   facebook: https://www.facebook.com/JokerTekk
 ordpms: 2
 ordkandidat: 1
+ordkontakty: 2
 ---
 
 Denis Rychtar 14.08. 1990, 1. místopředseda Zlínského Kraje, 1. místoředseda Místního Sdružení Piráti ValMez a Místopředseda Odborového svazu ECHO za CS Cabot. Narozen v Novém Jičíně a od roku 2003 žiji ve Valašském Meziříčí.
