@@ -9,7 +9,7 @@ category:                   # kategorie: clenove
 img: people/jakub-tomanec.jpg   # 165 x 220
 description: 34 let<br />OSVČ<br />člen Pirátů # kratký popis, max 160 znaků
 mail:
-
+  - jakub.tomanec@pirati.cz
 profiles:
   facebook: https://www.facebook.com/dwayne.w.dibbley
 
