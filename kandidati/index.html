@@ -13,7 +13,7 @@ rbar: ""
               <div class="jmk-candidates">
                <div class="row">
                   {% assign team = site.people | where_exp:"item","item.categories contains 'kandidat'" | sort:"ordkandidat"  %}
-                  {% for item in team limit:21 %}
+                  {% for item in team limit:7 %}
                     {% include people/kandidat.html param=item order='ordkandidat' %}
                   {% endfor %}
 
@@ -23,7 +23,7 @@ rbar: ""
 
                   {% include people/kandidat-mini.html order='8' name='Zbyněk Gehringer' job='46 let<br />servisní technik<br />nezávislý kandidát' %}
                   {% include people/kandidat-mini.html order='9' name='Bc. Veronika Málková' job='27 let<br />laborantka<br />nezávislý kandidát' %}
-                 {% include people/kandidat-mini.html order='10' name='jm' job=' <br /> <br />nezávislý kandidát' %}
+                 {% include people/kandidat-mini.html order='10' name='Lukáš Kvasnička' job='31 let<br />technolog výrobního projektu<br />nezávislý kandidát' %}
                  {% include people/kandidat-mini.html order='11' name='jm' job=' <br /> <br />nezávislý kandidát' %}
                  {% include people/kandidat-mini.html order='12' name='jm' job=' <br /> <br />nezávislý kandidát' %}
                  {% include people/kandidat-mini.html order='13' name='jm' job=' <br /> <br />nezávislý kandidát' %}
