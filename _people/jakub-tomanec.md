@@ -1,6 +1,6 @@
 ---
 uid: jakub.tomanec
-name:     Jakub Toamnec  	# běžně používáné jméno
+name:     Jakub Tomanec  	# běžně používáné jméno
 fullname: Jakub Tomanec  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
