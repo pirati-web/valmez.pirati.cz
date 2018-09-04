@@ -5,6 +5,7 @@ fullname: Denis Rychtar  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - pms
 - clenove
+- kandidat
 
 img: people/denis-rychtar.jpg   # 165 x 220
 description: 1. místopředseda MS ValMez, chemik-velinář # kratký popis, max 160 znaků
@@ -13,6 +14,7 @@ mail:
 profiles:
   facebook: https://www.facebook.com/JokerTekk
 ordpms: 2
+ordkandidat: 1
 ---
 
 Denis Rychtar (*14. srpna 1990, Nový Jičín) je podporovatel Pirátů od roku 2009 a členem od roku 2015.
