@@ -3,8 +3,6 @@ uid: vladimir.seliga
 name:     Mgr. Vladimír Šeliga  	# běžně používáné jméno
 fullname: Mgr. Vladimír Šeliga  	# jméno s tituly etc.
 category:                   # kategorie: clenove
-- pms
-- clenove
 - kandidat
 
 img: people/vladimir-seliga.jpg   # 165 x 220
