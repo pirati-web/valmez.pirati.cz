@@ -29,5 +29,5 @@ Mám dvě dospělé dcery a vychovávám chlapce, který na základě životníc
 
 Jsem vdaná za muže, který je mi životní oporou. Společně se zúčastňujeme moto-akcí. Mezi mé další zájmy patří sporty (plavání, lyžování, bruslení), cestování, houbaření, boloňský psík a sebevzdělávání v oblasti přírodních i duchovních věd. Jsem životní optimista, bojovník za spravedlnost, kompetentnost a čestnost na vedoucích postech. Usiluji o slušné zacházení s lidmi i se zvířaty. Žiji v přesvědčení, že zdravý rozum a pravda vítězí.
 
-Zajímám se o politické dění našeho města, zejména o problematiku školství. Postupy a rozhodování vedení Města Valašské Meziříčí, některých radních a vedoucí OŠKS mne uvádí již nejen v tichý úžas, ale i v to, abych se do politického dění města zapojila i já sama…
+Zajímám se o politické dění našeho města, zejména o problematiku školství. Postupy a rozhodování vedení Města Valašské Meziříčí, některých radních a vedoucí OŠKS mne uvádí již nejen v tichý úžas, ale v to, abych se do politického dění města zapojila i já sama…
 
