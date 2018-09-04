@@ -10,6 +10,7 @@ category:                   # kategorie: clenove
 
 img: people/denis-rychtar.jpg   # 165 x 220
 description: 28 let<br />1. místopředseda MS ValMez<br />chemik-velinář # kratký popis, max 160 znaků
+mob:  + 420 730 955 850
 mail:
 - denis.rychtar@pirati.cz
 profiles:
