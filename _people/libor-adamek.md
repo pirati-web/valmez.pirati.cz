@@ -7,7 +7,7 @@ category:                   # kategorie: clenove
 - pms
 
 img: people/libor-adamek.jpg   # 165 x 220
-description: 2. místopředseda MS ValMez, prodejce kancelářské techniky # kratký popis, max 160 znaků
+description: 2. místopředseda MS ValMez<br />prodejce kancelářské techniky # kratký popis, max 160 znaků
 mail:
 - libor.adamek@pirati.cz
 profiles:
