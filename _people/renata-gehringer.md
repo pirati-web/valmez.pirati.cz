@@ -17,7 +17,7 @@ ordkandidat: 3
 
 Mgr. et Bc. Renata Gehringer (*27. března 1970, Vsetín)
 
-Středoškolská studia jsem absolvovala na SPŠE v Rožnově pod Radhoštěm v oboru mikroelektronika. Poté jsem krátce působila jako technický pracovník v Deza a. s. Poté jsem studovala na Pedagogické fakultě Ostravské univerzity učitelství matematiky a základů techniky pro základní a střední školy. Byl mi udělen akademický titul „Mgr“.
+Středoškolská studia jsem absolvovala na SPŠE v Rožnově pod Radhoštěm v oboru mikroelektronika. Krátce jsem působila jako technický pracovník v Deza a. s. Poté jsem studovala na Pedagogické fakultě Ostravské univerzity učitelství matematiky a základů techniky pro základní a střední školy. Byl mi udělen akademický titul „Mgr“.
 
 Po mateřské dovolené jsem v roce 1995 nastoupila do pracovního poměru v ZŠ Křižná ve Valašském Meziříčí jako učitelka. V roce 2002 jsem byla KÚ Zlín jmenována okresním garantem matematických soutěží. (2016 byla ředitelkou školy tato prestižní činnost školy bez vědomí a souhlasu garanta ukončena.)
 
