@@ -5,7 +5,7 @@ fullname: Ing. Josef Krůpa  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - kandidat
 
-img: people/unknown-pirate.jpg   # 165 x 220
+img: people/josef-krupa.jpg   # 165 x 220
 description: 38 let<br />učitel IT na SŠ<br />nezávislý kandidát # kratký popis, max 160 znaků
 mail:
 
