@@ -15,11 +15,11 @@ Předpověď počasí nám nepřála, ale počasí nám nakonec přálo. Dobrovo
 Tak jsme 10:30 vyrazili kolem břehu Rožnovské Bečvy, kde jsme hned po 20 metrech zavazovali dva plné pytle. 
 Na 4 km ušlé trasy kolem břehu řeky jsme ve třech statečných nasbírali 200kg odpadu.
 
-Celkový počet dobrovolníků:4
-Z toho počet dětí (< 18 let):1
-Celkem odpadu:200 kg
-Počet sezbíraných PET lahví:cca. 50 kusů
+Celkový počet dobrovolníků: 4<br>
+Z toho počet dětí: 1<br>
+Celkem odpadu: 200 kg<br>
+Počet sezbíraných PET lahví: cca. 50 kusů<br>
 
-Odkaz na fotky z akce:<br>
-https://www.facebook.com/events/1650430098395947/permalink/1660294874076136/
+Odkaz na fotky z akce [ZDE](https://www.facebook.com/events/1650430098395947/permalink/1660294874076136/{:target="_blank"})
+
 - - -
