@@ -9,7 +9,7 @@ image: /assets/img/posts/uklidmecesko_podzim.jpg
 
 tags: 'uklidme-cesko dobrovolnici'
 ---
-V sobotu 15.09.2018 jsme se zůčastnili dobrovolnické akce Ukliďme svět, ukliďme Česko.
+V sobotu 15. 09. 2018 jsme se zůčastnili dobrovolnické akce Ukliďme svět, ukliďme Česko.
 
 Předpověď počasí nám sice nepřála, ale počasí nám nakonec vyšlo dobré. Dobrovolníci nedorazili, asi měli rušný pátek. 😀 
 Tak jsme v 10:30 vyrazili kolem břehu Rožnovské Bečvy, kde jsme hned po 20 metrech zavazovali dva plné pytle. 
