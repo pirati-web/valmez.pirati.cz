@@ -18,7 +18,7 @@ Na 4 km ušlé trasy kolem břehu řeky jsme ve třech statečných nasbírali 2
 Celkový počet dobrovolníků: 4<br>
 Z toho počet dětí: 1<br>
 Celkem odpadu: 200 kg<br>
-Počet sezbíraných PET lahví: cca. 50 kusů<br>
+Počet sesbíraných PET lahví: cca. 50 kusů<br>
 
 Odkaz na fotky z akce [ZDE](https://www.facebook.com/events/1650430098395947/permalink/1660294874076136/){:target="_blank"})
 
