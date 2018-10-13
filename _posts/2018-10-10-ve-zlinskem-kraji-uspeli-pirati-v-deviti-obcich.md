@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 'Ve Zlínském kraji budou pirátští zastupitelé v osmi městech a jedné vesnici'
-date: 2018-09-01
+date: 2018-10-10
 author: Marek Houser
 authorId: marek.houser
 image: /assets/img/posts/zlkmapa2018n.jpg
