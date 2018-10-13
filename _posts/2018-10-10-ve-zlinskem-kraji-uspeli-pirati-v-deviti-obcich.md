@@ -6,6 +6,7 @@ date: 2018-10-10
 author: Marek Houser
 authorId: marek.houser
 image: /assets/img/posts/zlkmapa2018n.jpg
+ogimage: https://raw.githubusercontent.com/pirati-web/valmez.pirati.cz/master/assets/img/posts/zlkmapa2018n.jpg
 tags: 'komunálky 2018 zlínský-kraj'
 ---
 Celkem v osmi městech a jedné vesnici ve Zlínském kraji se podařilo Pirátům protlačit do obecního zastupitelstva minimálně jednoho člena. Patnáct městských zastupitelů pochází přímo z pirátských kandidátek či z kandidátů s naší podporou, ve Stupavě získal jeden Pirát mandát mezi nezávislými. Neuspěly pouze pirátské kandidátky na Vsetíně, v Zašové a ve Slavičíně.
