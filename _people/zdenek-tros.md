@@ -14,8 +14,7 @@ mail:
 profiles:
   facebook: https://www.facebook.com/zdenek.tros
   
-ordkandidat: 2
-ordclen: 2
+
 ordkontakty: 3
 ---
 
