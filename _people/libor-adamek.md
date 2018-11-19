@@ -3,9 +3,7 @@ uid: libor.adamek
 name:     Libor Adámek  	# běžně používáné jméno
 fullname: Libor Adámek  	# jméno s tituly etc.
 category:                   # kategorie: clenove
-- clenove
 - pms
-- kandidat
 - kontakt
 
 img: people/libor-adamek.jpg   # 165 x 220
