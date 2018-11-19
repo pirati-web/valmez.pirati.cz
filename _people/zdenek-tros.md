@@ -7,7 +7,7 @@ category:                   # kategorie: clenove
 - kontakt
 
 img: people/zdenek-tros.jpg   # 165 x 220
-description: 36 let<br>OSVČ, jednatel<br>2. místopředseda Pirátů MS ValMez # kratký popis, max 160 znaků
+description: 36 let<br>2. místopředseda Pirátů MS ValMez<br>OSVČ, jednatel # kratký popis, max 160 znaků
 mob:   +420 724 286 285
 mail:
 - zdenek.tros@pirati.cz
