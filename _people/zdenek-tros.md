@@ -3,20 +3,27 @@ uid: zdenek.tros
 name:     Zdeněk Třos  	# běžně používáné jméno
 fullname: Zdeněk Třos  	# jméno s tituly etc.
 category:                   # kategorie: clenove
-- clenove
+- pms
+- kontakt
 
 img: people/zdenek-tros.jpg   # 165 x 220
-description: OSVČ, jednatel # kratký popis, max 160 znaků
+description: 36 let<br>2. místopředseda Pirátů MS ValMez<br>OSVČ, jednatel # kratký popis, max 160 znaků
+mob:   +420 724 286 285
 mail:
 - zdenek.tros@pirati.cz
 profiles:
   facebook: https://www.facebook.com/zdenek.tros
+  
+
+ordkontakty: 3
 ---
 
-Zdeněk Třos (*15. prosince 1981, Valašské Meziříčí) je členem Pirátské strany od roku 2017. Zdeněk pochází z Rožnova p.R., kde bydlí takřka celý život.
+Zdeněk Třos (* 15. prosince 1981) je členem Pirátské strany. V Rožnově bydlí takřka celý život. Je jednatelem a majitelem společnosti Mexia s.r.o.
 
-Vystudoval Hotelovou školu ve Frenštátě p.R. s ukončením maturitní zkoušky. V průběhu studia absolvoval různé gastronomické kurzy a úspěšně reprezentoval školu v sommeliérských, barmanských či číšnických soutěžích. Po střední škole studoval na jazykové škole Lion ve Frenštátě p.R. angličtinu. Poté na 3 měsíce odcestoval do UK na vzdělávací pobyt přes Totnes european school a pracoval tam i jako číšník.
+V komunální politice chce prosadit více zeleně ve městě, mj. i na střechách a fasádách průmyslových a komerčních budov. Chce také prosadit vybudování družstevních bytů s pomocí města pro občany Rožnova a postavit celoroční krytou tržnici. V neposlední řadě by rád více propojil rožnovské podnikatele díky networkingovým akcím. Avšak vizí má více....
 
-Od roku 2004, od svých 23 let, začal podnikat jako obchodní partner pro společnost Eurotel - později Telefónica O2. Zde do roku 2014 vedl početný tým, který se staral o firemní zákazníky s rámcovými smlouvami. Od roku 2014 dodnes je majitelem i jednatelem společnosti Mexia s.r.o., která koupila automaty na čerstvou pomerančovou šťávu a provozuje je. Ve spolupráci s grafikem a programátory také vyvíjí hru pro virtuální realitu pro HTC VIVE, která bude zaměřena na zábavní centra.
+Vystudoval Hotelovou školu ve Frenštátě p.R. s ukončením maturitní zkouškou. V průběhu studia úspěšně reprezentoval školu v gastronomických soutěžích. Po střední škole studoval na jazykové škole angličtinu. Poté odcestoval do UK na vzdělávací pobyt.
 
-Jeho životním cílem je být šťastný a spokojený ve všech směrech. Má rád florbal, kiteboarding, lyže, snowboard, kolo, běžky, procházky přírodou, turistiku a filmy, které ho dokáží zcela ponořit a nejsou v nich nelogické chyby scénáristů.
+V roce 2004 začal podnikat jako obchodní partner pro společnost Eurotel - později Telefónica O2. Zde do roku 2014 vedl početný tým, který se staral o firemní zákazníky. Od roku 2014 dodnes jeho společnost Mexia provozuje nápojové automaty na čerstvou pomerančovou šťávu. Ve spolupráci s grafikem a programátory také vyvíjí hru pro virtuální realitu.
+
+Ve volném čase se věnuje florbalu, kiteboardingu, snowboardingu, cyklistice a turistice.
