@@ -61,30 +61,28 @@ __Účast na zasedání komise__
 2. Účast na zasedání stvrzují členové komise podpisem do prezenční listiny.
 
 Jedná se o tyto výbory:
-| ------------- | ------------- | :-------------: |
-| 1 | Finanční a investiční výbor | OBSAZENO |
-| 1 | Kontrolní výbor | OBSAZENO |
-| 1 | Osadní výbor místní části BRŇOV | NEOBSAZENO |
-| 1 | Osadní výbor místní části BYNINA | NEOBSAZENO |
-| 1 | Osadní výbor místní části HRACHOVEC | NEOBSAZENO |
-| 1 | Osadní výbor místní části JUŘINKA | OBSAZENO |
-| 1 | Osadní výbor místní části LHOTA | NEOBSAZENO |
-| 1 | Osadní výbor místní části PODLESÍ | NEOBSAZENO |
+
+- **Finanční a investiční výbor**   OBSAZENO  
+- **Kontrolní výbor**   OBSAZENO  
+- **Osadní výbor místní části BRŇOV**   NEOBSAZENO  
+- **Osadní výbor místní části BYNINA**   NEOBSAZENO  
+- **Osadní výbor místní části HRACHOVEC**   NEOBSAZENO  
+- **Osadní výbor místní části JUŘINKA**   OBSAZENO  
+- **Osadní výbor místní části LHOTA**   NEOBSAZENO  
+- **Osadní výbor místní části PODLESÍ**   NEOBSAZENO  
 
 A tyto komise:
-Kulturní komise                                                          OBSAZENO
-Komise pro sport a volný čas                                     OBSAZENO
-Dopravní komise                                                        OBSAZENO
-Komise pro územní rozvoj                                       NEOBSAZENO
-Sociální a zdravotní komise                                     NEOBSAZENO
-Komise pro školství                                                    OBSAZENO
-Komise pro životní prostředí                                       OBSAZENO
-Bytová komise                                                          NEOBSAZENO
-
-Místní komise 1 Krásno 1 (Křižná)                             OBSAZENO
-Místní komise 2  Krásno 2 (Obora)                          NEOBSAZENO
-Místní komise 3 Město 1 (Štěpánov)                          OBSAZENO
-Místní komise 4 Město 2 (Vyhlídka)                         NEOBSAZENO
-__
+- **Kulturní komise**  OBSAZENO
+- **Komise pro sport a volný čas**   OBSAZENO
+- **Dopravní komise**   OBSAZENO
+- **Komise pro územní rozvoj**   NEOBSAZENO
+- **Sociální a zdravotní komise**   NEOBSAZENO
+- **Komise pro školství**   OBSAZENO
+- **Komise pro životní prostředí**   OBSAZENO
+- **Bytová komise**    NEOBSAZENO
+- **Místní komise 1 Krásno 1 (Křižná)**   OBSAZENO
+- **Místní komise 2  Krásno 2 (Obora)**   NEOBSAZENO
+- **Místní komise 3 Město 1 (Štěpánov)**    OBSAZENO
+- **Místní komise 4 Město 2 (Vyhlídka)**    NEOBSAZENO
 
 - - -
