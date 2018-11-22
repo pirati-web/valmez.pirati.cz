@@ -16,7 +16,7 @@ V souladu s pirátskými principy vyhlašujeme výběrové řízení na jejich o
 Výběrové řízení je otevřeno nejen členům Pirátské strany, ale i jejím sympatizantům.
 
 __Přihlášky zájemců jsou přijímány na mailu : denis.rychtar@pirati.cz <br>a to nejpozději do  27. listopadu 2018 včetně.__
-V přihlášce uveďte kontaktní údaje, svůj stručný životopis a odůvodnění Vaší motivace, zejména se zaměřením na o
+<br>V přihlášce uveďte kontaktní údaje, svůj stručný životopis a odůvodnění Vaší motivace, zejména se zaměřením na o
 dbornost a zkušenosti do příslušné komise.<br>
 __Jméno a příjmení, bydliště, rok narození, kontakt (mail/mobil), odbornost a představení.__
 
