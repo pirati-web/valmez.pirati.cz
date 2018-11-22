@@ -62,14 +62,14 @@ __Účast na zasedání komise__
 
 Jedná se o tyto výbory:
 | ------------- | ------------- |:-------------:|
-||Finanční a investiční výbor|OBSAZENO|
-||Kontrolní výbor|OBSAZENO|
-||Osadní výbor místní části BRŇOV|NEOBSAZENO|
-||Osadní výbor místní části BYNINA|NEOBSAZENO|
-||Osadní výbor místní části HRACHOVEC|NEOBSAZENO|
-||Osadní výbor místní části JUŘINKA|OBSAZENO|
-||Osadní výbor místní části LHOTA|NEOBSAZENO|
-||Osadní výbor místní části PODLESÍ|NEOBSAZENO|
+|1|Finanční a investiční výbor|OBSAZENO|
+|1|Kontrolní výbor|OBSAZENO|
+|1|Osadní výbor místní části BRŇOV|NEOBSAZENO|
+|1|Osadní výbor místní části BYNINA|NEOBSAZENO|
+|1|Osadní výbor místní části HRACHOVEC|NEOBSAZENO|
+|1|Osadní výbor místní části JUŘINKA|OBSAZENO|
+|1|Osadní výbor místní části LHOTA|NEOBSAZENO|
+|1|Osadní výbor místní části PODLESÍ|NEOBSAZENO|
 
 A tyto komise:
 Kulturní komise                                                          OBSAZENO
