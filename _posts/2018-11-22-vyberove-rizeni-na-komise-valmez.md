@@ -22,13 +22,35 @@ __Jméno a příjmení, bydliště, rok narození, kontakt (mail/mobil), odborno
 
 V případě kladného přijetí přihlášky budete pozváni ke krátkému rozhovoru, o kterém vás informujeme mailem.
 
+Jedná se o tyto výbory:
+- **Finanční a investiční výbor**  -  OBSAZENO  
+- **Kontrolní výbor**  -  OBSAZENO  
+- **Osadní výbor místní části BRŇOV**  -  NEOBSAZENO  
+- **Osadní výbor místní části BYNINA**  -  NEOBSAZENO  
+- **Osadní výbor místní části HRACHOVEC**  -  NEOBSAZENO  
+- **Osadní výbor místní části JUŘINKA**  -  OBSAZENO  
+- **Osadní výbor místní části LHOTA**  -  NEOBSAZENO  
+- **Osadní výbor místní části PODLESÍ**  -  NEOBSAZENO  
+
+A tyto komise:
+- **Kulturní komise**  -  OBSAZENO
+- **Komise pro sport a volný čas**  -  OBSAZENO
+- **Dopravní komise**  -  OBSAZENO
+- **Komise pro územní rozvoj**  -  NEOBSAZENO
+- **Sociální a zdravotní komise**  -  NEOBSAZENO
+- **Komise pro školství**  -  OBSAZENO
+- **Komise pro životní prostředí**  -  OBSAZENO
+- **Bytová komise**  -  NEOBSAZENO
+- **Místní komise 1 Krásno 1 (Křižná)**  -  OBSAZENO
+- **Místní komise 2  Krásno 2 (Obora)**  -  NEOBSAZENO
+- **Místní komise 3 Město 1 (Štěpánov)**  -  OBSAZENO
+- **Místní komise 4 Město 2 (Vyhlídka)**  -  NEOBSAZENO
 
 Informativní dokumenty k osadním výborům a komisím:
 
 http://www.valasskemezirici.cz/assets/File.ashx?id_org=17636&id_dokumenty=8511
 
 __Poslání a působnost komise__
-
 
 1.  Komise je iniciativním a kontrolním orgánem rady města. Projednává zejména krátkodobou, střednědobou a dlouhodobou strategii města ve svěřené oblasti, a v této souvislosti sleduje a podílí se na přípravě městského rozpočtu a jeho změn.
 
@@ -47,7 +69,6 @@ __Zasedání komise__
 
 1. Komise zasedá v průběhu funkčního období podle potřeby, a to tak, aby jednotlivá zasedání korespondovala se schváleným plánem práce komise. Zasedání komise jsou číslována v jedné číselné řadě za období vymezené celým funkčním obdobím. Zasedání komise jsou neveřejná.
 
-
 2. Plán práce komise stanoví termíny zasedání, případně hlavní úkoly komise na dané období a je komisí schvalován zpravidla na kalendářní rok na posledním zasedání v kalendářním roce.
 
 3. Zasedání komise svolává předseda pozvánkou, která obsahuje místo a termín zpravidla nejméně 7 dní přede dnem zasedání.
@@ -57,32 +78,6 @@ __Účast na zasedání komise__
 
 1. Členové komise jsou povinni se zúčastnit každého zasedání komise. Svou neúčast jsou povinni omluvit předsedovi.
 
-
 2. Účast na zasedání stvrzují členové komise podpisem do prezenční listiny.
-
-Jedná se o tyto výbory:
-
-- **Finanční a investiční výbor**  -  OBSAZENO  
-- **Kontrolní výbor**  -  OBSAZENO  
-- **Osadní výbor místní části BRŇOV**  -  NEOBSAZENO  
-- **Osadní výbor místní části BYNINA**  -  NEOBSAZENO  
-- **Osadní výbor místní části HRACHOVEC**   NEOBSAZENO  
-- **Osadní výbor místní části JUŘINKA**   OBSAZENO  
-- **Osadní výbor místní části LHOTA**   NEOBSAZENO  
-- **Osadní výbor místní části PODLESÍ**   NEOBSAZENO  
-
-A tyto komise:
-- **Kulturní komise**  OBSAZENO
-- **Komise pro sport a volný čas**   OBSAZENO
-- **Dopravní komise**   OBSAZENO
-- **Komise pro územní rozvoj**   NEOBSAZENO
-- **Sociální a zdravotní komise**   NEOBSAZENO
-- **Komise pro školství**   OBSAZENO
-- **Komise pro životní prostředí**   OBSAZENO
-- **Bytová komise**    NEOBSAZENO
-- **Místní komise 1 Krásno 1 (Křižná)**   OBSAZENO
-- **Místní komise 2  Krásno 2 (Obora)**   NEOBSAZENO
-- **Místní komise 3 Město 1 (Štěpánov)**    OBSAZENO
-- **Místní komise 4 Město 2 (Vyhlídka)**    NEOBSAZENO
 
 - - -
