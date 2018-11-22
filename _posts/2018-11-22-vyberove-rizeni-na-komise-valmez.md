@@ -62,10 +62,10 @@ __Účast na zasedání komise__
 
 Jedná se o tyto výbory:
 
-- **Finanční a investiční výbor**   OBSAZENO  
-- **Kontrolní výbor**   OBSAZENO  
-- **Osadní výbor místní části BRŇOV**   NEOBSAZENO  
-- **Osadní výbor místní části BYNINA**   NEOBSAZENO  
+- **Finanční a investiční výbor**  -  OBSAZENO  
+- **Kontrolní výbor**  -  OBSAZENO  
+- **Osadní výbor místní části BRŇOV**  -  NEOBSAZENO  
+- **Osadní výbor místní části BYNINA**  -  NEOBSAZENO  
 - **Osadní výbor místní části HRACHOVEC**   NEOBSAZENO  
 - **Osadní výbor místní části JUŘINKA**   OBSAZENO  
 - **Osadní výbor místní části LHOTA**   NEOBSAZENO  
