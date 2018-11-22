@@ -15,9 +15,9 @@ do jednotlivých komisí. Do každé komise lze za Piráty nominovat jednoho čl
 V souladu s pirátskými principy vyhlašujeme výběrové řízení na jejich obsazení.
 Výběrové řízení je otevřeno nejen členům Pirátské strany, ale i jejím sympatizantům.
 
-__Přihlášky zájemců jsou přijímány na mailu : denis.rychtar@pirati.cz a to nejpozději do  27. listopadu 2018 včetně.__
+__Přihlášky zájemců jsou přijímány na mailu : denis.rychtar@pirati.cz <br>a to nejpozději do  27. listopadu 2018 včetně.__
 V přihlášce uveďte kontaktní údaje, svůj stručný životopis a odůvodnění Vaší motivace, zejména se zaměřením na o
-dbornost a zkušenosti do příslušné komise.
+dbornost a zkušenosti do příslušné komise.<br>
 __Jméno a příjmení, bydliště, rok narození, kontakt (mail/mobil), odbornost a představení.__
 
 V případě kladného přijetí přihlášky budete pozváni ke krátkému rozhovoru, o kterém vás informujeme mailem.
@@ -55,12 +55,12 @@ __Poslání a působnost komise__
 
 1.  Komise je iniciativním a kontrolním orgánem rady města. Projednává zejména krátkodobou, střednědobou a dlouhodobou strategii města ve svěřené oblasti, a v této souvislosti sleduje a podílí se na přípravě městského rozpočtu a jeho změn.
 
-2. Komise dále:
-Sleduje, jak se v příslušných úsecích činnosti městského úřadu uplatňuje jeho působnost a pravomoc a jak se provádějí usnesení RM a ZM z oblasti jeho působnosti,
-Předkládá RM návrhy k zařazení na pořad jednání připravovaného zasedání,
-Vznáší dotazy, připomínky a podněty ve věcech týkajících se působnosti komise na radu města a její jednotlivé členy, předsedy výborů, na statutární orgány právnických osob, jejichž zakladatelem je město, a na vedoucí příspěvkových organizací a organizačních složek, které město založilo nebo zřídilo. Pokud požaduje písemnou odpověď, musí mu být zaslána do 30 dnů,
-Má dále právo požadovat od zaměstnanců města zařazených do městského úřadu, jakož i od zaměstnanců právnických osob, které město založilo nebo zřídilo, informace ve věcech týkajících se působnosti komise. Informace musí být poskytnuta do 30 dnů.
-Spadá-li to do působnosti komise, pak sleduje, jak příslušný odbor zabezpečuje výkon zřizovatelských funkcí vůči zřízeným organizacím
+2. Komise dále:<br>
+Sleduje, jak se v příslušných úsecích činnosti městského úřadu uplatňuje jeho působnost a pravomoc a jak se provádějí usnesení RM a ZM z oblasti jeho působnosti,<br>
+Předkládá RM návrhy k zařazení na pořad jednání připravovaného zasedání,<br>
+Vznáší dotazy, připomínky a podněty ve věcech týkajících se působnosti komise na radu města a její jednotlivé členy, předsedy výborů, na statutární orgány právnických osob, jejichž zakladatelem je město, a na vedoucí příspěvkových organizací a organizačních složek, které město založilo nebo zřídilo. Pokud požaduje písemnou odpověď, musí mu být zaslána do 30 dnů,<br>
+Má dále právo požadovat od zaměstnanců města zařazených do městského úřadu, jakož i od zaměstnanců právnických osob, které město založilo nebo zřídilo, informace ve věcech týkajících se působnosti komise. Informace musí být poskytnuta do 30 dnů.<br>
+Spadá-li to do působnosti komise, pak sleduje, jak příslušný odbor zabezpečuje výkon zřizovatelských funkcí vůči zřízeným organizacím.<br>
 Spadá-li to do působnosti komise, pak projednává návrhy na udělení grantů a finanční podpory v oblasti její působnosti.
 
 3. Funkční období komise je vymezeno funkčním obdobím rady města.
