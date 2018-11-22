@@ -61,16 +61,15 @@ __Účast na zasedání komise__
 2. Účast na zasedání stvrzují členové komise podpisem do prezenční listiny.
 
 Jedná se o tyto výbory:
-| ------------- |:-------------:|:-------------:|
-|Finanční a investiční výbor|OBSAZENO|obsazeno|
-|Kontrolní výbor|OBSAZENO|obsazeno|
- 
-Osadní výbor místní části BRŇOV                           NEOBSAZENO
-Osadní výbor místní části BYNINA                           NEOBSAZENO
-Osadní výbor místní části HRACHOVEC                  NEOBSAZENO
-Osadní výbor místní části JUŘINKA                            OBSAZENO
-Osadní výbor místní části LHOTA                             NEOBSAZENO
-Osadní výbor místní části PODLESÍ                          NEOBSAZENO
+| ------------- |:-------------:|
+|Finanční a investiční výbor|OBSAZENO|
+|Kontrolní výbor|OBSAZENO|
+|Osadní výbor místní části BRŇOV|NEOBSAZENO|
+|Osadní výbor místní části BYNINA|NEOBSAZENO|
+|Osadní výbor místní části HRACHOVEC|NEOBSAZENO|
+|Osadní výbor místní části JUŘINKA|OBSAZENO|
+|Osadní výbor místní části LHOTA|NEOBSAZENO|
+|Osadní výbor místní části PODLESÍ|NEOBSAZENO|
 
 A tyto komise:
 Kulturní komise                                                          OBSAZENO
