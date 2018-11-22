@@ -61,9 +61,9 @@ __Účast na zasedání komise__
 2. Účast na zasedání stvrzují členové komise podpisem do prezenční listiny.
 
 Jedná se o tyto výbory:
-| ------------- |:-------------:|
-|Finanční a investiční výbor|OBSAZENO|
-|Kontrolní výbor|OBSAZENO|
+| ------------- |:-------------:|:-------------:|
+|Finanční a investiční výbor|OBSAZENO|obsazeno|
+|Kontrolní výbor|OBSAZENO|obsazeno|
  
 Osadní výbor místní části BRŇOV                           NEOBSAZENO
 Osadní výbor místní části BYNINA                           NEOBSAZENO
