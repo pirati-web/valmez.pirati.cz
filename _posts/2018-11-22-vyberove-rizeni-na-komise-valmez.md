@@ -62,7 +62,7 @@ __Účast na zasedání komise__
 
 Jedná se o tyto výbory:
 | ------------- | ------------- | :-------------: |
-|  1| Finanční a investiční výbor | OBSAZENO |
+| 1 | Finanční a investiční výbor | OBSAZENO |
 | 1 | Kontrolní výbor | OBSAZENO |
 | 1 | Osadní výbor místní části BRŇOV | NEOBSAZENO |
 | 1 | Osadní výbor místní části BYNINA | NEOBSAZENO |
