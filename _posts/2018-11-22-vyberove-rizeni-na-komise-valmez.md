@@ -48,7 +48,8 @@ A tyto komise:
 
 Informativní dokumenty k osadním výborům a komisím:
 
-http://www.valasskemezirici.cz/assets/File.ashx?id_org=17636&id_dokumenty=8511
+[http://www.valasskemezirici.cz/assets/File.ashx?id_org=17636&id_dokumenty=8511](http://www.valasskemezirici.cz/assets/File.ashx?id_org=17636&id_dokumenty=8511)
+
 
 __Poslání a působnost komise__
 
