@@ -9,7 +9,7 @@ image: /assets/img/posts/uradovytrojuhelnik.jpg
 ogimage: https://raw.githubusercontent.com/pirati-web/valmez.pirati.cz/master/assets/img/posts/uradovytrojuhelnik.jpg
 tags: 'Valašské-Meziříčí úřad zastupitelstvo'
 ---
-Stará budova úřadu na Zašovské ulici ve Valašském Meziříčí je  v rozpadajícím se stavu. Zastupitelé musí vyřešit, zda se postaví
+Stará budova úřadu na Zašovské ulici ve Valašském Meziříčí je v rozpadajícím se stavu. Zastupitelé musí vyřešit, zda se postaví
 budova nová, či se stávající prostory zrekonstruují. Na rekonstrukci byly navrženy tři projekty v cenových relacích 
 cca 60 milionů Kč a nová budova cca 80 - 116 milionů Kč bez DPH. Zastupitelé se shodli, že je potřeba rozšířit úřad. 
 Nejen o parkovací místa, ale i o případné rozšíření pro prostory městské policie, technické služby a rezervy pro 
@@ -42,6 +42,5 @@ Dost bylo Bermudského trojúhelníku úřadů roztáhlých po celém městě!
 Napište nám na naše facebookové stránky: [https://www.facebook.com](https://www.facebook.com/pirati.valmez/){:target="_blank"}
 
 nebo kontaktujte naše členy nebo naše zastupitele: [https://valmez.pirati.cz/kontakt/](https://valmez.pirati.cz/kontakt/){:target="_blank"}
-
 
 - - -
