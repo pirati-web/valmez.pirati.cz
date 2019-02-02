@@ -39,7 +39,7 @@ Dost bylo Bermudského trojúhelníku úřadů roztáhlých po celém městě!
 
 **Jaký je Váš názor? Jaká nabízíte možná řešení? Která varianta je pro Vás nejpřijatelnější?**
 
-Napište nám na naše facebookové stránky: [https://www.facebook.com](https://www.facebook.com/pirati.valmez/){:target="_blank"}
+Napište nám na naše facebookové stránky: [https://www.facebook.com/pirati.valmez/](https://www.facebook.com/pirati.valmez/){:target="_blank"}
 
 nebo kontaktujte naše členy nebo naše zastupitele: [https://valmez.pirati.cz/kontakt/](https://valmez.pirati.cz/kontakt/){:target="_blank"}
 
