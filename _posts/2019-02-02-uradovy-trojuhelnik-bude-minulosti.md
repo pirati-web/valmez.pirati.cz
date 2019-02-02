@@ -37,13 +37,11 @@ Předpoklad nákladů je 116 milionů Kč bez DPH.
 Pro místní Pirátskou stranu je nejvíce atraktivní novostavba v areálu Kasáren a sjednocení s krajskými úřady. 
 Dost bylo Bermudského trojúhelníku úřadů roztáhlých po celém městě!
 
-Jaký je Váš názor? Jaká nabízíte možná řešení? Která varianta je pro Vás nejpřijatelnější?
+**Jaký je Váš názor? Jaká nabízíte možná řešení? Která varianta je pro Vás nejpřijatelnější?**
 
-Napište nám na naše facebookové stránky:
-https://www.facebook.com/pirati.valmez/
+Napište nám na naše facebookové stránky: [https://www.facebook.com](https://www.facebook.com/pirati.valmez/){:target="_blank"}
 
-nebo kontaktujte naše členy nebo naše zastupitele:
-https://valmez.pirati.cz/kontakt/ 
+nebo kontaktujte naše členy nebo naše zastupitele: [https://valmez.pirati.cz/kontakt/](https://valmez.pirati.cz/kontakt/){:target="_blank"}
 
 
 - - -
