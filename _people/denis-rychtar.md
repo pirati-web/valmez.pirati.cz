@@ -9,7 +9,7 @@ category:                   # kategorie: clenove
 - kontakt
 
 img: people/denis-rychtar.jpg   # 165 x 220
-description: 1. místopředseda PKS ZLK<br />zastupitel města Valašské Meziříčí<br />člen Kontrolního výboru města VM<br />člen Komise pro životní prostředí města VM<br />člen Místní komise 1. Křižná  # kratký popis, max 160 znaků
+description: 1. místopředseda PKS ZLK<br />zastupitel města Valašské Meziříčí<br />člen Kontrolního výboru města VM<br />člen Komise pro životní prostředí města VM<br />člen Místní komise 1 Krásno 1 (Křižná)  # kratký popis, max 160 znaků
 mob:  + 420 730 955 850
 mail:
 - denis.rychtar@pirati.cz
