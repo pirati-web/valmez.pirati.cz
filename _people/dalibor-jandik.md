@@ -7,12 +7,13 @@ category:                   # kategorie: clenove
 - kandidat
 
 img: people/dalibor-jandik.jpg   # 165 x 220
-description: 32 let<br />projektant měření a regulace<br />člen Pirátů # kratký popis, max 160 znaků
+description: člen Pirátů MS ValMez<br />člen Dopravní komise města VM # kratký popis, max 160 znaků
 mail:
 - dalibor.jandik@pirati.cz
 profiles:
   facebook: https://www.facebook.com/dalibor.jandik
-  
+
+ordclen: 3  
 ordkandidat: 6  
 ---
 
