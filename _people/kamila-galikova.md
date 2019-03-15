@@ -19,6 +19,6 @@ Kamila Gáliková (* 1994) Pochází z Rožnova pod Radhoštěm, ale od r. 2014 
 
 Vystudovala SUPŠ Sklářskou ve Valašském Meziříčí, obor „Průmyslový design“, po dobu studia se zaměřovala na prostotovou práci (sochařství, atd..), malbu, a počítačovou grafiku.
 
-V součastnosti pracuje ve společnosti PWO Czech Republic, a.s.
+V součastnosti je studentka zahraničního obchodu.
 
 Angažuje se v aktivitách souvisejících s kulturou, přírodou, ekologií. Je aktivistkou za práva zvířat. 
