@@ -1,7 +1,7 @@
 ---
-uid: lucie.dvorakova
-name:     Lucie Dvořáková Matyšťáková, DiS.  	# běžně používáné jméno
-fullname: Lucie Dvořáková Matyšťáková, DiS.  	# jméno s tituly etc.
+uid: lucie.matystakova
+name:     Lucie Matyšťáková, DiS.  	# běžně používáné jméno
+fullname: Lucie Matyšťáková, DiS.  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
 
