@@ -6,7 +6,7 @@ category:                   # kategorie: clenove
 - clenové
 
 img: people/renata-gehringer.jpg   # 165 x 220
-description: příznivec Pirátů<br />členka Bytové komise<br />členka Komise pro školství<br />členka Místní komise 3 Město 1 (Štěpánov) # kratký popis, max 160 znaků
+description: příznivec Pirátů<br />členka Bytové komise<br />členka Komise pro školství<br />členka Místní komise 3 Štěpánov # kratký popis, max 160 znaků
 mail:
 
 profiles:
