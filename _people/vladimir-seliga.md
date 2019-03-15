@@ -12,7 +12,7 @@ mail:
 profiles:
   facebook: https://www.facebook.com/profile.php?id=100013430379037
 
-ordclen: 4
+ordclen: 5
 ---
 
 Narozen 28.7.1971 ve Valašském Meziříčí. Celoživotní zájem o sport a zdravý životní styl spolu s více než desetiletými zkušenostmi ve sportovních organizacích zůročuji při trénování mládeže a dospělých. Udržuji si stále vysokou míru motivace rozvíjet se a posunovat vpřed, ve všech oblastech života. Po absolvování Střední průmyslové školy strojnické Vsetín jsem vystudoval obor management volného času a rekreace, následně management životního stylu a učitelskou způsobilost na Fakultě tělesné kultury Univerzity Palackého v Olomouci.
