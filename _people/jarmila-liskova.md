@@ -6,11 +6,11 @@ category:                   # kategorie: clenove
 - clenove
 
 img: people/unknown-pirate.jpg   # 165 x 220
-description: nezávislý příznivec Pirátů<br />člen Místní komise 2 Obora # kratký popis, max 160 znaků
+description: nezávislý příznivec Pirátů<br />členka Osadního výboru Podlesí # kratký popis, max 160 znaků
 mail:
 
 profiles:
   
 
-ordclen: 10
+ordclen: 11
 ---
