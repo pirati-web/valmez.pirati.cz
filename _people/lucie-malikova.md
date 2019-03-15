@@ -8,7 +8,7 @@ category:                   # kategorie: clenove
 - kontakt
 
 img: people/lucie-malikova.jpg   # 165 x 220
-description: 20 let, mateřská dovolená<br>předsedkyně Pirátů MS ValMez<br>student ekonomiky a podnikání # kratký popis, max 160 znaků
+description: předsedkyně Pirátů MS ValMez # kratký popis, max 160 znaků
 mob:			  +420 733 724 738
 mail:
 - lucie.malikova@pirati.cz
@@ -16,7 +16,7 @@ profiles:
   facebook: https://www.facebook.com/ghostinafuego.malikova
 ordpms: 1
 ordkandidat: 4
-ordclen: 3
+ordclen: 2
 ordkontakty: 1
 ---
 

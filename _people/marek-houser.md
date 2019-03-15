@@ -3,7 +3,7 @@ uid: marek.houser
 name:     Marek Houser  	# běžně používáné jméno
 fullname: Marek Houser  	# jméno s tituly etc.
 category:                 # kategorie
-- clenove
+
 
 img: people/marek-houser.jpg   # 165 x 220
 description: předseda KS Zlínský kraj, marketingový specialista         	# kratký popis, max 160 znaků

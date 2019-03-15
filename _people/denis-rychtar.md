@@ -9,12 +9,13 @@ category:                   # kategorie: clenove
 - kontakt
 
 img: people/denis-rychtar.jpg   # 165 x 220
-description: 28 let<br />zastupitel města Valašské Meziříčí<br />1. místopředseda PKS ZLK<br />chemik-velinář # kratký popis, max 160 znaků
+description: 1. místopředseda PKS ZLK<br />zastupitel města Valašské Meziříčí<br />člen Kontrolního výboru města VM<br />člen Místní komise 1 Křižná  # kratký popis, max 160 znaků
 mob:  + 420 730 955 850
 mail:
 - denis.rychtar@pirati.cz
 profiles:
   facebook: https://www.facebook.com/JokerTekk
+ordclen: 1
 ordpms: 2
 ordkandidat: 1
 ordkontakty: 2

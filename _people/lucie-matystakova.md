@@ -1,18 +1,18 @@
 ---
-uid: lucie.dvorakova
-name:     Lucie Dvořáková Matyšťáková, DiS.  	# běžně používáné jméno
-fullname: Lucie Dvořáková Matyšťáková, DiS.  	# jméno s tituly etc.
+uid: lucie.matystakova
+name:     Lucie Matyšťáková, DiS.  	# běžně používáné jméno
+fullname: Lucie Matyšťáková, DiS.  	# jméno s tituly etc.
 category:                   # kategorie: clenove
-- kandidat
+- clenove
 
 img: people/lucie-dvorakova.jpg   # 165 x 220
-description: 28 let<br />asistentka<br />nezávislý kandidát # kratký popis, max 160 znaků
+description: nezávislý příznivec Pirátů<br />členka Kulturní komise města VM # kratký popis, max 160 znaků
 mail:
 
 profiles:
   facebook: https://www.facebook.com/lucie.dvorakova.90
 
-ordkandidat: 4
+ordclen: 6
 ---
 
 Narodila jsem se 20.1.1990 ve Valašském Meziříčí.

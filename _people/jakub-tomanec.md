@@ -3,8 +3,8 @@ uid: jakub.tomanec
 name:     Jakub Tomanec  	# běžně používáné jméno
 fullname: Jakub Tomanec  	# jméno s tituly etc.
 category:                   # kategorie: clenove
-- clenove
-- kandidat
+
+
 
 img: people/jakub-tomanec.jpg   # 165 x 220
 description: 34 let<br />OSVČ<br />člen Pirátů # kratký popis, max 160 znaků
