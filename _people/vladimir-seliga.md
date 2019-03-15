@@ -3,16 +3,16 @@ uid: vladimir.seliga
 name:     Mgr. Vladimír Šeliga  	# běžně používáné jméno
 fullname: Mgr. Vladimír Šeliga  	# jméno s tituly etc.
 category:                   # kategorie: clenove
-- kandidat
+- clenove
 
 img: people/vladimir-seliga.jpg   # 165 x 220
-description: 47 let<br />chemik<br />nezávislý kandidát # kratký popis, max 160 znaků
+description: příznivec Pirátů<br />člen Místní komise 4 Vyhlídka # kratký popis, max 160 znaků
 mail:
 
 profiles:
   facebook: https://www.facebook.com/profile.php?id=100013430379037
 
-ordkandidat: 2
+ordclen: 4
 ---
 
 Narozen 28.7.1971 ve Valašském Meziříčí. Celoživotní zájem o sport a zdravý životní styl spolu s více než desetiletými zkušenostmi ve sportovních organizacích zůročuji při trénování mládeže a dospělých. Udržuji si stále vysokou míru motivace rozvíjet se a posunovat vpřed, ve všech oblastech života. Po absolvování Střední průmyslové školy strojnické Vsetín jsem vystudoval obor management volného času a rekreace, následně management životního stylu a učitelskou způsobilost na Fakultě tělesné kultury Univerzity Palackého v Olomouci.
