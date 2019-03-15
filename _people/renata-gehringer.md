@@ -3,16 +3,16 @@ uid: renata.gehringer
 name:     Mgr. Bc. Renata Gehringer  	# běžně používáné jméno
 fullname: Mgr. Bc. Renata Gehringer 	# jméno s tituly etc.
 category:                   # kategorie: clenove
-- kandidat
+- clenové
 
 img: people/renata-gehringer.jpg   # 165 x 220
-description: 48 let<br />učitelka na SŠ<br />nezávislý kandidát # kratký popis, max 160 znaků
+description: příznivec Pirátů<br />členka Bytové komise<br />členka Komise pro školství<br />členka Místní komise 3 Město 1 (Štěpánov) # kratký popis, max 160 znaků
 mail:
 
 profiles:
   facebook: https://www.facebook.com/Renata.Gehringer
 
-ordkandidat: 3
+ordclen: 4
 ---
 
 Mgr. et Bc. Renata Gehringer (*27. března 1970, Vsetín)
