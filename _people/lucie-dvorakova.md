@@ -12,7 +12,7 @@ mail:
 profiles:
   facebook: https://www.facebook.com/lucie.dvorakova.90
 
-ordclen: 4
+ordclen: 6
 ---
 
 Narodila jsem se 20.1.1990 ve Valašském Meziříčí.
