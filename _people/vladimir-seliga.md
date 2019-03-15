@@ -6,7 +6,7 @@ category:                   # kategorie: clenove
 - clenove
 
 img: people/vladimir-seliga.jpg   # 165 x 220
-description: příznivec Pirátů<br />člen Komise pro sport a volný čas<br />člen Místní komise 4 Vyhlídka # kratký popis, max 160 znaků
+description: příznivec Pirátů<br />člen Komise pro sport a volný čas města VM<br />člen Místní komise 4 Vyhlídka # kratký popis, max 160 znaků
 mail:
 
 profiles:
