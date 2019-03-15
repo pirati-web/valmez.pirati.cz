@@ -6,7 +6,7 @@ category:                   # kategorie: clenove
 - clenove
 
 img: people/lucie-dvorakova.jpg   # 165 x 220
-description: příznivec Pirátů<br />členka Kulturní komise města VM # kratký popis, max 160 znaků
+description: nezávislý příznivec Pirátů<br />členka Kulturní komise města VM # kratký popis, max 160 znaků
 mail:
 
 profiles:
