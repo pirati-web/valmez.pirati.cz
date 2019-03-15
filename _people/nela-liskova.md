@@ -1,7 +1,7 @@
 ---
 uid: nela.liskova
-name:     Nela Lišková  	# běžně používáné jméno
-fullname: Nela Lišková 	# jméno s tituly etc.
+name:     Ing. arch. Nela Lišková  	# běžně používáné jméno
+fullname: Ing. arch. Nela Lišková 	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenové
 
