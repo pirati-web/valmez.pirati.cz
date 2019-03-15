@@ -3,7 +3,7 @@ uid: renata.gehringer
 name:     Mgr. Bc. Renata Gehringer  	# běžně používáné jméno
 fullname: Mgr. Bc. Renata Gehringer 	# jméno s tituly etc.
 category:                   # kategorie: clenove
-- clenové
+- clenove
 
 img: people/renata-gehringer.jpg   # 165 x 220
 description: příznivec Pirátů<br />členka Bytové komise<br />členka Komise pro školství<br />členka Místní komise 3 Štěpánov # kratký popis, max 160 znaků
