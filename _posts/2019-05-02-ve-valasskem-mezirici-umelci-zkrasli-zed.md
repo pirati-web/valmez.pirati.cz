@@ -3,8 +3,8 @@ layout: blog
 category: CLANKY
 title: 'Ve Valašském Meziříčí umělci zkrášlí 240metrů dlouhou zeď!'
 date: 2019-05-02
-author: Denis Rychtar
-authorId: denis.rychtar
+author: Jaromír Horký
+authorId: jaromir.horky
 image: /assets/img/posts/streetart.jpg
 ogimage: https://raw.githubusercontent.com/pirati-web/valmez.pirati.cz/master/assets/img/posts/streetart.jpg
 ---
