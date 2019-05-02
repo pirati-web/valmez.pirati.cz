@@ -21,6 +21,7 @@ Pirát a umělec Jakub Tomanec společně s místními graffiti writery a uměl
 zkrášlili např. stěny pod nadjezdem u autobusového nádraží, vymysleli projekt, který dostal název „Barevné město“. 
 Na celém projektu kromě zmíněných umělců participuje taktéž Pirátský zastupitel Denis Rychtar a 
 místostarostka Yvona Wojaczková. Cílem tohoto projektu je společně s řadou umělců zkrášlit nevzhledné oblasti města.
+
  _„Graffity jamy mají ve městě velkou historii, jsem rád, že se mi podařilo s firmou CS Cabot vyjednat možnost 
  pokreslení 240 metrů dlouhého plotu na vjezdu do města. 
  Firma dokonce poskytne sponzorský dar na barvy ve výši 15 tisíc korun. 
