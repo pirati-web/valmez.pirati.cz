@@ -7,6 +7,7 @@ author: Jaromír Horký
 authorId: jaromir.horky
 image: /assets/img/posts/streetart.jpg
 ogimage: https://raw.githubusercontent.com/pirati-web/valmez.pirati.cz/master/assets/img/posts/streetart.jpg
+tags: 'Valašské-Meziříčí umění street-art'
 ---
 Nevzhledné venkovní prostranství, stěny, ploty a nadjezdy, to vše jsou takzvané strašáky města, 
 které se však i díky Pirátům brzy promění v umělecké dílo!
