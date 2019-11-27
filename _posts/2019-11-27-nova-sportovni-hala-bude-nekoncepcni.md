@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-title: 'Nová sportovní hala ve Valašském Meziříčí bude nekoncepční, Piráti jsou proti.'
+title: 'Nová sportovní hala ve Valašském Meziříčí bude nekoncepční, Piráti jsou proti'
 date: 2019-11-27
 author: Jaromír Horký
 authorId: jaromir.horky
