@@ -6,7 +6,7 @@ category:                   # kategorie: clenove
 - clenove
 
 img: people/kamila-galikova.jpg   # 165 x 220
-description: členka Pirátů MS ValMez<br />členka Komise pro životní prostředí # kratký popis, max 160 znaků
+description: 1. místopředsedkyně MS ValMez<br />členka Komise pro životní prostředí # kratký popis, max 160 znaků
 mail:
 
 profiles:
