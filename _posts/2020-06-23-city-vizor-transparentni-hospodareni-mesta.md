@@ -10,10 +10,10 @@ tags: 'zlinsky-kraj valmez denis-rychtar transparentnost'
 ---
 Piráti z ValMezu plní sliby. Zaměřili se na transparentní účetnictví města. Na zastupitelstvu představili možnost, jak může město transparentně hospodařit za pomocí projektu Cityvizor. Většina zastupitelů však hlasovala proti tomuto návrhu.
 
-*„Rozklikávací rozpočet na úroveň faktur jsme voličům slíbili v našem programu, proto jsem se zaměřil na projekt Cityvizor, který umožní Valmezákům na jedné stránce ukázat údaje o rozpočtu města, plnění rozpočtu, smlouvy zveřejněné v registru smluv a přehlednou elektronickou úřední desku,“* říká zastupitel Denis Rychtar, který návrh předložil.
+*„Přehledný a jednoduchý rozklikávací rozpočet na úroveň faktur jsme voličům slíbili v našem programu, proto jsem se zaměřil na projekt CityVizor, který umožní Valmezákům na jedné stránce ukázat údaje o rozpočtu města, plnění rozpočtu, smlouvy zveřejněné v registru smluv a přehlednou elektronickou úřední desku,“* říká zastupitel Denis Rychtar, který návrh předložil.
 
-Piráti dlouhodobě prosazují transparentnost hospodaření ve veřejném sektoru. Průhledné a pro všechny dostupné účetnictví měst a obcí je jedním ze základních pilířů boje s korupcí. 
+Piráti dlouhodobě prosazují transparentnost hospodaření ve veřejném sektoru. Průhledné a pro všechny dostupné účetnictví měst a obcí je jedním ze základních pilířů boje s korupcí. Ono město rozklikávací rozpočet má, ale pro obyčejného občana je nepřehledný a o proti CityVizoru složitý.
 
-*„Tento projekt je přesně to, co našemu městu chybělo. Občan si může kdykoliv ověřit hospodaření města až do roviny faktur. Nevím, proč stávající  vedení města  tento projekt odmítlo, ledaže by se bála kostlivců ve skříní. Valašské Meziříčí hospodaří především z peněz občanů, proto mají občané právo na transparentní přehled financí,”* dodává Rychtar.
+*„Tento projekt je pod záštitou vstoupení do spolku Otevřená města, který nabízí nejen CityVizor, ale také další programy a aplikace pro zjednodušení přehlednosti a komunikací s občany. Neschválením členství v Otevřených městech jsme přišli o další možnosti jako je zavedení elektronických dotačních programů, které by pomohlo zjednodušit, vyhodnotit a vyplnit žádost. Město sice chystá obdobný systém, který však bude několikanásobně dražší,”* dodává Rychtar, který říká, že aplikace by město díky vstupu do spolku Otevřených měst získalo zdarma.
 
-Piráti i přes nezájem vládnoucí koalice budou i nadále pracovat transparentní nakládání s veřejnými prostředky, protože průhlednost hospodaření je nejlepší lék na korupci.
+Piráti i přes nezájem vládnoucí koalice budou nadále pracovat s moderním pojetím úředních systémů do jednoduchých, přehledných programů a aplikací, které pochopí každý občan.
