@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 'Piráti ve Valašském Meziříčí navrhli, aby město hospodařilo s otevřeným účetnictvím'
-date: 2020-06-24
+date: 2020-06-23
 author: Jaromír Horký
 authorId: jaromir.horky
 image: /assets/img/posts/transparence.jpg
