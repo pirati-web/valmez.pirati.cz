@@ -1,67 +1,181 @@
 # Welcome to Jekyll!
 #
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+# Toto je soubor s hlavním nastavením. Na začátku je nastavení proměných, které
+# je třeba přispůsobit si pro váš web. Později v anglicky popsané části jsou více
+# technické nastavení
+#
 
-# Site settings
-title: Pirátská strana | ValMez
+title: Piráti Valašské Meziříčí
 email: to@pirati.cz
-description: > # this means to ignore newlines until "baseurl:"
-  Web místního sdružení České pirátské strany ve Valašském Meziříčí.
+description: Prosazujeme fungující moderní politiku založenou na využití technologií 21. století pro otevřenou demokratickou společnost.
+# dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
+keywords: zlínský, kraj, zlín, piráti, česká pirátská strana, svoboda, demokracie, Valašské Meziříčí, valmez, ms valmez,
 url: "https://valmez.pirati.cz" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
 
-# Build settings
+administrator:
+  email: libor.adamek@pirati.cz
+
+organization:
+  name: Piráti Zlínský kraj
+  shortName: Piráti ZLK
+  contactUid: yveta.martinkova
+  email: yveta.martinkova@pirati.cz
+  phone: +420 770 113 648
+#  address: |
+#   zatím nemáme krajskou adresu
+#   Budova T-STRING
+#   Masarykovo náměstí 1484
+#    530 02 Pardubice I
+#  residenceImg: pardupice/6.jpg
+#  mapLink: https://goo.gl/maps/nn9n5ZXHtGujt7hQA
+  redmineLink: https://redmine.pirati.cz/projects/zlinsky-kraj/
+  dataBoxId: b2i4r6j
+  transparentAccount: 2100048174/2010
+  donateLink: https://dary.pirati.cz/projekty-kampane/zlk-potrebuje-peci/
+
+# Nastavení zobrazení tabulky kontaktů.
+# Lze využít:
+# 1) předdefinované typy (organizationEmail, organizationRedmineLink, organizationPhone, organizationTransparentAccount, organizationDataBox, piratiRootWebsite)
+# 2) vlastní řádky - zde je nutné jako type dát `custom` a vyplnit `label` a `body`
+contactSummaryItems:
+  - type: organizationEmail
+  - type: organizationRedmineLink
+  - type: organizationPhone
+  - type: organizationTransparentAccount
+    includeMoreLink: true
+  - type: organizationDataBox
+  - type: piratiRootWebsite
+
+calendar:
+  # For nice look of the calendar, make sure you get Google Calendar API key
+  # and start the app with the env var `GOOGLE_CALENDAR_APIKEY=[myapikey] bundle exec jekyll serve`.
+  # For deployment, contact website administrator to set you env variable.
+  title: Krajský kalendář
+  id: nk73m1m89vhf5g2vojp6tnqe58@group.calendar.google.com
+  page: https://calendar.google.com/calendar/embed?showTitle=0&showNav=0&showDate=0&showPrint=0&showTabs=0&showCalendars=0&showTz=0&mode=AGENDA&height=500&wkst=2&hl=cs&bgcolor=%23FFFFFF&src=kddvdvu3adcjef2kro4j6mm838%40group.calendar.google.com&color=%232952A3&ctz=Europe%2FPrague
+
+# pardupice:
+#  mapLink: https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10250.279531989467!2d15.770466!3d50.0381549!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd4d03352a17e038b!2zUGFyZHVQaUNlIOKAkyBQYXJkdWJpY2vDqSBQaXLDoXRza8OpIGNlbnRydW0!5e0!3m2!1scs!2scz!4v1568565921492!5m2!1scs!2scz
+#  calendar:
+#    id: t60uj67580oudjh04tuh5icl8o@group.calendar.google.com
+#    page: https://calendar.google.com/calendar/embed?src=t60uj67580oudjh04tuh5icl8o%40group.calendar.google.com&ctz=Europe%2FPrague
+
+facebook:
+  loadSDK: true
+  #vyplně adresu vaší stranky, funguje pouze na stránky nikoliv skupiny
+  profilePage: https://www.facebook.com/pirati.valmez
+  profilePageName: Piráti ValMez
+  appId: 1526197851008996
+
+twitter:
+  loadSDK: true
+  profile: PiratskaStrana
+
+instagram:
+  profilePage: https://www.instagram.com/pirati.cz/
+
+flicker:
+  profilePage: https://www.flickr.com/photos/pirati/
+
+forum:
+  page: https://forum.pirati.cz/viewforum.php?f=854
+
+github:
+  url: https://github.com/pirati-web/valmez.pirati.cz/
+  branch: master
+
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+github_username:  pirati-web
+
+sass:
+  style: compressed
+  sass_dir: _sass
+
+theme: jekyll-theme-pirati
+
 markdown: kramdown
-
+theme: jekyll-theme-pirati
 plugins:
+  - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-environment-variables
 paginate_path: "/aktuality/:num/"
-paginate: 11
+paginate: 12
 
 exclude:
   - readme.md
   - Gemfile
   - Gemfile.lock
+  - vendor
 
-sass:
-    style: compressed
-
-permalink: /aktuality/:title.html
+permalink: /tiskove-zpravy/:title/
 collections:
   people:
     output: true
     permalink: /lide/:path/
+
   program:
     output: true
-    permalink: /volby-2018/:path/
-  teams:
+    permalink: /komunalni-volby/program/:path/
+
+  volby2020:
     output: true
-    permalink: /pripoj-se/:title/
+    permalink: /volby-2020/:path/
+
+  # Sole purpose is to create candidate lists in separate files.
+  candidatelists:
+    output: false
 
 defaults:   # defaults values for collection scope
   -
     scope:
       path: "_people"
     values:
-      layout: "member"
-      rbar: "foto"
+      layout: "person"
+      rbar:
+        - profile
+        - people
   -
     scope:
       path: "_program"
     values:
-      layout: "page"
-      rbar: "volby-2018"
-  -
-    scope:
-      path: "_teams"
-    values:
-      layout: "team"
-      rbar: "team-summary, teams-toc"
+      layout: "program-post"
+      rbar:
+         - garant
+         - program
 
 emptyArray: []
-exclude: [vendor]
+
+assets:
+  source_maps: true
+  compression: true
+  gzip: false
+  plugins:
+    css: { autoprefixer: {}}
+    img:
+      optim:
+        jpegoptim:
+          strip: all
+          max_quality: 80
+  autoprefixer:
+    browsers:
+      - "last 2 versions"
+      - "IE > 9"
+  sources:
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-7.6.2/_sass
+    - assets/css
+    - assets/fonts
+    - assets/video
+    - assets/img
+    - _sass
+
+styleguide_base_url: 'https://styleguide.pir-test.eu/latest/'

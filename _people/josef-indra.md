@@ -1,10 +1,13 @@
 ---
 uid: josef.indra
 name:     Josef Indra  	# běžně používáné jméno
-fullname: Josef Indra  	# jméno s tituly etc.
+titles:
+  before:
+  after:
 category:                   # kategorie: clenove
-- kontakt
+- kontaktni_osoba
 img: people/josef-indra.jpg   # 165 x 220
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: Psavec, mediální asistent # kratký popis, max 160 znaků
 mob: +420 731 219 933
 mail:

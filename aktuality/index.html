@@ -1,17 +1,19 @@
 ---
 layout: default
+title: Aktuality
+description: Novinky ze Zlínského kraje, pirátské kauzy a vše o Zlínském kraji.
+keywords: aktuality, tiskové zprávy, press, blog
 ---
 
-<div class="row o-section-block o-section-block--divided">
-  <div class="medium-12 large-8 columns">
-    <section class="o-section o-section--noSpaceBottom o-section--bigger">
-      <div class="o-section-inner o-section-inner--leftBlock">
-      </div>
-    </section>
-  </div>
+<div class="container container--default pt-8 lg:py-24">
+  <section>
+    <h1 class="head-alt-md md:head-alt-lg max-w-5xl mb-4">Aktuální témata</h1>
+
+    {% assign posts = paginator.posts %}
+    <main>
+      {% include articles/list-responsive.html posts=posts %}
+    </main>
+
+    {% include articles/pagination.html paginator=paginator %}
+  </section>
 </div>
-
-{% assign posts = paginator.posts %}
-{% include article-list/list-3col.html param='posts' %}
-
-{% include article-list/pagination.html %}

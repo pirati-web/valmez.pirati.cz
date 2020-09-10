@@ -1,16 +1,19 @@
 ---
 uid: jan.kvasnicka
 name:     Ing. Jan Kvasnička  	# běžně používáné jméno
-fullname: Ing. Jan Kvasnička 	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                   # kategorie: clenove
-- clenove
-
+- clen
+ord_clen: 9
 img: people/unknown-pirate.jpg   # 165 x 220
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: nezávislý příznivec Pirátů<br />člen Finančního výboru města VM # kratký popis, max 160 znaků
 mail:
 
 profiles:
   
 
-ordclen: 8
+
 ---
