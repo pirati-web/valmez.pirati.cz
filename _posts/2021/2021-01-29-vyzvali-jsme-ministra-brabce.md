@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: Vyzvali jsem ministra Brabce, aby odvolal šéfa ČIŽP
+title: Vyzvali jsme ministra Brabce, aby odvolal šéfa ČIŽP
 date: 2021-01-29
 author: Denis Rychtar
 authorId: denis.rychtar
