@@ -6,7 +6,6 @@ img: pardupice/valmez.jpg
 addressNote: zatím nemáme místní adresu,
              najdete nás na našich schůzích nebo akcích 
 rbar: ""
-noresidence: yes
 ---
 ### 1. Transparentnost města
 Otevřít občanům možnost nahlédnout i do smluv a výběrových řízení menších rozsahů, které výběrové řízení mít nemusí do částky
