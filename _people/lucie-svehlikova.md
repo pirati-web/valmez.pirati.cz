@@ -14,7 +14,7 @@ profession: krajská mediální specialistka
 partyUid: pirati
 mob: +420 605 263 660
 mail:
-- luciesvehlikova@gmail.com
+- lucie.svehlikova@pirati.cz
 profiles:
   facebook:  https://www.facebook.com/lucie.svehlikova/
     
