@@ -9,7 +9,7 @@ contactPersons:
   - id: lucie.rychtarova
     position: Předsedkyně místního sdružení ValMez
   - id: lucie.svehlikova
-    position: Kontakt pro sněmovní volby 2021
+    position: Kontakt pro média
   - id: denis.rychtar
     position: Kontakt na zastupitele
   - id: yveta.martinkova
